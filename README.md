@@ -20,5 +20,7 @@ Interactive command-line calculator designed to compute precise artillery firing
 4. Aim and fire at will!
 
 **GLORY TO CASTILE!**
+
 **GLORY TO HIGH COMMAND!**
+
 _@FluffyCyanNova_
