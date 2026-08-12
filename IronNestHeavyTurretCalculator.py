@@ -83,7 +83,7 @@ def main():
 
       print(f"\n{Colors.GREEN}Target locked!{Colors.RESET}")
       print(
-          f"Rotation:  {Colors.BOLD}{rotation:06.2f}°{Colors.RESET}"
+          f"Rotation: {Colors.BOLD}{rotation:6.2f}°{Colors.RESET}"
           f" ({direction})"
       )
 
