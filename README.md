@@ -2,6 +2,9 @@
 
 Interactive command-line calculator designed to compute precise artillery firing solutions, turret rotations, elevations, and powder charge options while tracking safety limits.
 
+## Preview
+![image](https://github.com/FluffyCyanNova/IRON-NEST-ARTILLERY-CALCULATOR/blob/main/image.png?raw=true)
+
 ## Features
 - **Dynamic Calculation:** Automatically calculates elevation based on distance and powder charges.
 - **Powder Flexibility:** Provide a specific powder charge (1x–6x) for a direct solution, or leave it blank to view all possible powder options at a glance.
