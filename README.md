@@ -1,4 +1,4 @@
-IRON NEST: HEAVY TURRET CALCULATOR
+# IRON NEST: HEAVY TURRET CALCULATOR
 
 Interactive command-line calculator designed to compute precise artillery firing solutions, turret rotations, elevations, and powder charge options while tracking safety limits.
 
@@ -19,5 +19,6 @@ Interactive command-line calculator designed to compute precise artillery firing
 3. Input Bearings, Distance, Powder Charges (<- This is optional, two args to show all possible elevation).
 4. Aim and fire at will!
 
-# GLORY TO CASTILE!
-## GLORY TO HIGH COMMAND!
+**GLORY TO CASTILE!**
+**GLORY TO HIGH COMMAND!**
+_@FluffyCyanNova_
